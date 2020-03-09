@@ -1,0 +1,12 @@
+.card-expansion {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.md-card {
+    width: 320px;
+    margin: 10px;
+    vertical-align: top;
+}
